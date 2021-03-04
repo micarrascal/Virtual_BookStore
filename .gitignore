@@ -1,0 +1,5 @@
+# Quitar archivos ejecutables 
+./*/*.exe
+
+# Quitar archivos del IDE
+./idea
